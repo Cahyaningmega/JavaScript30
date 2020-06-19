@@ -1,0 +1,9 @@
+class HelloWorld
+{
+
+Public Static Void Main(string Args[])
+{
+     system.out.prinln("Hello world");
+		 }
+		 
+}
